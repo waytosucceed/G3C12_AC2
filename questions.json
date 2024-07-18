@@ -1,0 +1,152 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which of the following is an action verb?",
+    "options": ["Was", "Jumped", "Seem", "Has"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Identify the action verb in the sentence: 'The dog barked loudly at the passing car.'",
+    "options": ["Dog", "Barked", "Loudly", "Passing"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "The word 'talk' is an example of a verb.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Which of the following is not an action verb?",
+    "options": ["Ran", "Thought", "Danced", "Was"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Identify the verb in the sentence: 'She has been studying for her exam.'",
+    "options": ["Has", "Been", "Studying", "Exam"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Action verbs correct the question 'What is the subject doing?'",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "The dog _____ happily when its owner came home.",
+    "options": ["Wag", "Dance", "Bark", "Sleep"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Identify the verb in the sentence: 'The children are playing in the park.'",
+    "options": ["Are", "Playing", "Children", "Park"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "\"Write\", \"Speak\" and \"jump\" are verbs.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "The student _____ her homework assignment.",
+    "options": ["Writes", "Dances", "Climbs", "Cooks"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Identify the verb in the sentence: 'They will have finished their homework by tonight.'",
+    "options": ["Will", "Have", "Finished", "Homework"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Which of the following is an action verb?",
+    "options": ["Slept", "Had", "Is", "Became"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Identify the verb in the sentence: 'The sun was shining brightly in the sky.'",
+    "options": ["Was", "Shining", "Sun", "Brightly"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "The chef _____ the vegetables before cooking them.",
+    "options": ["Chops", "Bakes", "Reads", "Draws"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Fill the action verb in this sentence: The chef _____ a delicious meal.",
+    "options": ["Cooked", "Played", "Payed", "Cooking"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which of the following is an action verb?",
+    "options": ["Sang", "Had", "Seems", "Was"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Identify the verb in the sentence: 'The students have been working on their projects diligently.'",
+    "options": ["Have", "Been", "Working", "Diligently"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "The baby _____ loudly in the crib.",
+    "options": ["Played", "Roared", "Cried", "Crib"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which of the following is an action verb?",
+    "options": ["Swam", "Had", "Were", "Is"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Identify the verb in the sentence: 'She could have been practising harder for the test.'",
+    "options": ["Could", "Have", "Been", "Practising"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q21.",
+    "question": "In the sentence 'She has been working diligently,' the word 'working' is a verb.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q22.",
+    "question": "Identify the verb in the following sentence: 'The committee decided to postpone the meeting.'",
+    "options": ["Committee", "Decided", "Postpone", "None of the above"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q23.",
+    "question": "The verb 'dance' in the sentence 'They dance gracefully' is an action verb.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q24.",
+    "question": "What does an action verb denote?",
+    "options": ["Action verbs are used to denote physical actions only.", "Action verbs are used to denote thoughts as well as actions.", "Action verbs describe what the subject of the sentence is.", "All of the above."],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q25.",
+    "question": "Identify the action verb in the sentence: 'She painted a beautiful picture.'",
+    "options": ["She", "Picture", "Beautiful", "None of the above"],
+    "correct": 3
+  }
+]
